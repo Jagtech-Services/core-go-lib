@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/Snipa22/core-go-lib/milieu"
+	"github.com/Jagtech-Services/core-go-lib/milieu"
 	"github.com/gin-gonic/gin"
 )
 
