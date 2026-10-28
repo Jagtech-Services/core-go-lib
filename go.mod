@@ -1,4 +1,4 @@
-module github.com/Snipa22/core-go-lib
+module github.com/Jagtech-Services/core-go-lib
 
 go 1.24
 
